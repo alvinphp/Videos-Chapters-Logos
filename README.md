@@ -23,6 +23,7 @@ Video Extends es un plugin ligero para WordPress que permite insertar videos MP4
 * Carga el script de forma condicional solo si se usa el shortcode:
 
 [videos_chapters_logos video="Sintel.mp4" width="800" height="450" autoplay="true" loop="true"]
+
 [videos_chapters_logos video="Sintel.mp4" logo="logo.png" width="800" height="450" autoplay="true" loop="true" markers="0:39=Intro,5:50=Chapter 2,7:50=Chapter 3,9:00=Chapter 4"]
 
 
